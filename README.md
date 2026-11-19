@@ -1,4 +1,4 @@
-# Trainer Kit PLC Model Workbench
+# Training Kit PLC model Workbench
 
 A physical training workbench for learning push-button input and relay output logic before progressing to PLC integration.
 
