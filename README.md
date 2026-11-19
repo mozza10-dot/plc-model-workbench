@@ -2,7 +2,7 @@
 
 A physical training workbench for learning push-button input and relay output logic before progressing to PLC integration.
 
-> **Project type:** Team project
+> **Project type:** 2024–25 PBL; team project
 
 ![PLC model workbench functional demonstration](docs/images/plc-workbench-functional-demo.png)
 
@@ -14,7 +14,7 @@ The current development stage is a relay and push-button logic workbench created
 
 ## My Contribution
 
-Worked with the team to:
+Served as PBL team lead and electrical lead according to the final report, and worked with the team to:
 
 - Build the workbench frame from the beginning
 - Create the relay box
